@@ -98,6 +98,14 @@ h1{
 
 }
 
+.pbild{
+  width: 100%;
+
+}
+
+
+
+
 
 #div-border{
 	border: yellow;
@@ -152,7 +160,7 @@ h1{
 .portfolio-item .item-inner {
   margin: 0 20px 20px 0;
   text-align: center;
-  background: #fff;
+  background-color: #F5F5F5;
   padding: 10px;
   border-bottom: 1px solid #e1e1e1;
 }
@@ -162,6 +170,8 @@ h1{
 }
 .portfolio-item .portfolio-image {
   position: relative;
+  background: black;
+
 }
 .portfolio-item h5 {
   margin: 0;
