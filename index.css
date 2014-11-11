@@ -41,7 +41,16 @@ h1{
 
 
 
+.link{
+  color: fuchsia;
+}
 
+
+.link:hover{
+  color:  yellow;
+  background-color: fuchsia;
+  text-decoration: none;
+}
 
 .social-link{
 	color: fuchsia;
