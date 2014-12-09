@@ -2,15 +2,11 @@ body {
     padding-top: 65px; 
 }
 
-*{
+p{
 
-
-
-
-font-family: 'Josefin Slab', serif;
-font-weight: 600; 
+  font-family: 'Muli', sans-serif;
+  font-weight: 400; 
 }
-
 
 
 h1{
