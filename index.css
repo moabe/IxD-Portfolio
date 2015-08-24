@@ -62,6 +62,20 @@ h2{
   text-decoration: none;
 }
 
+
+.link:visited{
+  color: fuchsia;
+  text-decoration: underline;
+}
+
+
+.link:visited:hover{
+    color:  yellow;
+  background-color: fuchsia;
+  text-decoration: underline;
+
+}
+
 .social-link{
 	color: fuchsia;
 	margin-right: 7%;
